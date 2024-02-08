@@ -1,0 +1,1 @@
+SELECT * from nyc.yellow_cab_data limit 10;

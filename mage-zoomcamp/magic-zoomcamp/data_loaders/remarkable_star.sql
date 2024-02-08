@@ -1,0 +1,1 @@
+select * from ny_taxi.dev_gcs_to_bigquery_transform_staged_data_v1;
